@@ -1,0 +1,26 @@
+{
+  "name": "package2",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Jonas Pauthier <jonas.pauthier@gmail.com>",
+  "homepage": "https://github.com/Nargonath/lint-staged-commit-all-repro#readme",
+  "license": "ISC",
+  "main": "lib/package2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nargonath/lint-staged-commit-all-repro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Nargonath/lint-staged-commit-all-repro/issues"
+  }
+}
